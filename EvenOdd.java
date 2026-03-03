@@ -1,5 +1,5 @@
 public class EvenOdd {
-    public static void main(String[] args) {
+    pu static void main(String[] args) {
     
         int num = 10;
         
